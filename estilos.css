@@ -1,0 +1,22 @@
+#caja-negra {
+    background-color: black!important;
+    flex-grow: 1;
+}
+
+#caja-titulo {
+    flex-grow: 2;
+}
+
+.container {
+    display: flex;
+}
+
+.container > div {
+    background-color: antiquewhite;
+    padding-left: 4%;
+    padding-bottom: 20px;
+}
+
+.principal {
+    width: 30%;
+}
