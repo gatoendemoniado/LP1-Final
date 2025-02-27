@@ -20,8 +20,8 @@ body {
     font-size: 24px; /* Tamaño de la fuente */
     /* Estilo del cuadro con imagen de fondo */
     cursor: pointer;
-
-  }
+   
+}
 
 #logo {
     top: 6%;
@@ -44,7 +44,7 @@ body {
     text-align: left;
     background-color: rgba(0, 0, 0, 0.7);
     padding: 10px 20px;
-    border-radius: 10px;
+    border-radius: 25px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
     background-color: #f8fafc;
     /* Estilo del cuadro con imagen de fondo */
@@ -70,6 +70,7 @@ li {
     text-align: left;
     list-style-type: none;
 }
+
 #continuedBtn{
     color: #a9a9a9;
     background-color: #d3d3d300;
@@ -81,6 +82,7 @@ li {
 ul {
     background-color: #f8fafc;
 }  
+
 #backBtn {
     top: 70%;
     left: 10%;
